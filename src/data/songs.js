@@ -30,12 +30,12 @@ export default [
     },
     {
         id: 4,
-        title: 'Intouchables - Soundtracks OST',
-        artist: 'Gökhan Abi',
-        description: 'Original Soundtrack',
-        image: 'https://i.scdn.co/image/d39397d2f6a1525b3fe90369c89ea2d94aac5714',
-        type: 'podcast',
-        src: 'https://raw.githubusercontent.com/Purush2006/minnorProject/main/src/data/Lists/Ek%20Din%20Aap%20-%20HD%20VIDEO%20%20Shah%20Rukh%20Khan%20%26%20Juhi%20Chawla%20%20Yes%20Boss%20%2090s%20Romantic%20Hindi%20Songs.mp3'
+        title: 'Ek Din Aap',
+        artist: 'Alka Yagnik and Kumar Sanu',
+        description: 'Shah Rukh Khan & Juhi Chawla | Kumar Sanu & Alka Yagnik | Yes Boss',
+        image: 'https://wp.scoopwhoop.com/wp-content/uploads/2022/11/yes-boss-25-years-juhi-srk.jpg?w=1024',
+        type: 'Romance',
+        src: 'https://raw.githubusercontent.com/Purush2006/minnorProject/main/src/data/Lists/Ek%20Din%20Aap.mp3'
     },
     {
         id: 5,
