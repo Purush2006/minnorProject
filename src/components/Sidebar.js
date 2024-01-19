@@ -34,7 +34,7 @@ function Sidebar() {
 							<span className="w-6 h-6 flex items-center justify-center mr-4 bg-gradient-to-br from-purple-700 text-white rounded-sm to-blue-300 opacity-70 group-hover:opacity-100">
 								<Icon name="heartFilled" size={12} />
 							</span>
-							favorites
+							Favorites
 						</a>
 					</li>
 				</ul>

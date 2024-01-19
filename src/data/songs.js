@@ -6,7 +6,7 @@ export default [
         artist: 'Swati Mishra',
         image: 'https://i.ytimg.com/vi/wncNcu6jEgs/hqdefault.jpg',
         type: 'album',
-        src: 'https://youtu.be/wncNcu6jEgs?si=lxATN8c68rwPfNM2'
+        src: 'https://raw.githubusercontent.com/Purush2006/minnorProject/main/src/data/Lists/raam-aayenge-swati-mishra-bhajan.mp3'
     },
     // Add more objects if needed
 
