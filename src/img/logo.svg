@@ -1,11 +1,11 @@
-<svg viewBox="0 0 250 70" xmlns="http://www.w3.org/2000/svg">
-    <!-- Stylish Musical Note -->
-    <path fill="#ff6347" d="M20 35 Q40 45 20 55 Q10 60 20 65 Q30 70 20 80 Q0 95 20 110"></path>
+<svg viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Musical Note -->
+    <path fill="#ff6347" d="M30 50 Q60 65 30 80 Q15 90 30 100 Q45 110 30 120 Q0 140 30 160"></path>
     
     <!-- Music Tone -->
-    <circle cx="70" cy="35" r="5" fill="#8a2be2"></circle>
-    <rect x="70" y="30" width="5" height="15" fill="#8a2be2"></rect>
-    
+    <circle cx="105" cy="50" r="7" fill="#8a2be2"></circle>
+    <rect x="105" y="43" width="7" height="28" fill="#8a2be2"></rect>
+
     <!-- Text: SGT -->
-    <text x="100" y="50" font-family="Arial" font-size="40" font-weight="bold" fill="#2ca02c">SGT</text>
+    <text x="130" y="100" font-family="Arial" font-size="72" font-weight="bold" fill="#2ca02c">SGT</text>
 </svg>
