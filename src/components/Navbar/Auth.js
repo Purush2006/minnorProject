@@ -4,8 +4,8 @@ import { Icon } from "Icons";
 function Auth() {
 
     const user = {
-        name: 'Tayfun Erbilen',
-        avatar: 'https://i.scdn.co/image/ab6775700000ee856fca122911ed9eec4ce60c1e'
+        name: 'NGP Patna 13',
+        avatar: 'https://th.bing.com/th/id/OIP.uAPojV-AED-K5GUvMKAsowAAAA?rs=1&pid=ImgDetMain'
     }
 
     return (

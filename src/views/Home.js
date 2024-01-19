@@ -11,12 +11,12 @@ function Home() {
 				items={songs}
 			/>
 			<Section
-				title="Shows to try"
+				title="Most played"
 				more="/blabla"
 				items={songs}
 			/>
 			<Section
-				title="Made For Tayfun Erbilen"
+				title="Hindi Songs"
 				more="/blabla"
 				items={songs}
 			/>
