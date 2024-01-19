@@ -26,7 +26,7 @@ function Sidebar() {
 							<span className="w-6 h-6 flex items-center justify-center mr-4 bg-white bg-opacity-60 group-hover:bg-opacity-100 rounded-sm text-black">
 								<Icon name="plus" size={12} />
 							</span>
-							Çalma Listesi Oluştur
+							Create Playlists
 						</a>
 					</li>
 					<li>
@@ -34,7 +34,7 @@ function Sidebar() {
 							<span className="w-6 h-6 flex items-center justify-center mr-4 bg-gradient-to-br from-purple-700 text-white rounded-sm to-blue-300 opacity-70 group-hover:opacity-100">
 								<Icon name="heartFilled" size={12} />
 							</span>
-							Beğenilen Şarkılar
+							favorites
 						</a>
 					</li>
 				</ul>
