@@ -1,4 +1,4 @@
-import logo from "img/logo.svg"
+import logo from "img/logo.jpg"
 import { Icon } from "Icons"
 import Menu from "components/Sidebar/Menu"
 import Playlists from "components/Sidebar/Playlists"
@@ -13,8 +13,9 @@ function Sidebar() {
 	return (
 		<aside className="w-60 pt-6 flex flex-shrink-0 flex-col bg-black">
 
-			<a href="#" className="mb-7 px-6">
-				<img src={logo} alt="" className="h-10"/>
+			<a href="#" className="mb-7 px-6 flex justify-evenly items-center">
+				<img src={logo} alt="" className="h-14"/> 
+				<span className="md:inline">Sangeet na suna </span>
 			</a>
 
 			<Menu />
